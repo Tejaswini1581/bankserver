@@ -80,6 +80,11 @@
             <artifactId>httpclient5</artifactId>
 
             </dependency>
+		<dependency>
+    <groupId>com.microsoft.sqlserver</groupId>
+    <artifactId>mssql-jdbc</artifactId>
+    <version>9.4.0.jre11</version> <!-- Use the latest version -->
+</dependency>
 		
 	</dependencies>
 
